@@ -1,6 +1,4 @@
-# statistical-programmer-project
-
-# Clinical Oncology SAS Project
+# Clinical Oncology Statistical Programming Project (SAS)
 
 This project simulates the end-to-end clinical trial data programming workflow using SAS. It includes the creation of SDTM and ADaM datasets from raw data, and the generation of TLF outputs (Tables, Listings, and Figures), all aligned with CDISC standards.
 
