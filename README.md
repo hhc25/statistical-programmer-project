@@ -7,9 +7,9 @@ This project simulates the end-to-end clinical trial data programming workflow u
 ## Project Objectives
 
 - Build mock clinical trial datasets based on oncology data structure
-- Convert raw data into SDTM datasets according to CDISC structure
-- Create ADaM datasets for subject-level, adverse event, and exposure analysis
-- Generate Tables, Listings, and Figures for safety reporting
+- Convert raw data into **SDTM** datasets according to **CDISC** structure
+- Create **ADaM** datasets for subject-level, adverse event, and exposure analysis
+- Generate **Tables, Listings, and Figures** for safety reporting
 
 ---
 
